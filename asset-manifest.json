@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/reactprofile20/static/css/main.214bdd5b.css",
+    "main.js": "/reactprofile20/static/js/main.ca7fbcf9.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/reactprofile20/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/color-sharp.png": "/reactprofile20/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/reactprofile20/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/fondo1.jpg": "/reactprofile20/static/media/fondo1.46b4ddfad80c6a1f1ec1.jpg",
+    "static/media/proj-img3.jpg": "/reactprofile20/static/media/proj-img3.6f9fcebcc343f230583d.jpg",
+    "static/media/proj-img2.jpg": "/reactprofile20/static/media/proj-img2.a9cdc936cd09cff27792.jpg",
+    "static/media/proj-img1.jpg": "/reactprofile20/static/media/proj-img1.e2544428ef8347b98479.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/reactprofile20/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/reactprofile20/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/reactprofile20/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/header-img.svg": "/reactprofile20/static/media/header-img.1d0826b8a87137db23f67db12a2ffbcc.svg",
+    "static/media/revicons.eot": "/reactprofile20/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/reactprofile20/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/reactprofile20/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/reactprofile20/static/media/logo.dcdc7e48d2914c4554d23802c653a81a.svg",
+    "static/media/meter2.svg": "/reactprofile20/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/reactprofile20/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/reactprofile20/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/nav-icon3.svg": "/reactprofile20/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/reactprofile20/index.html",
+    "static/media/nav-icon1.svg": "/reactprofile20/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/reactprofile20/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.214bdd5b.css.map": "/reactprofile20/static/css/main.214bdd5b.css.map",
+    "main.ca7fbcf9.js.map": "/reactprofile20/static/js/main.ca7fbcf9.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/reactprofile20/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.214bdd5b.css",
+    "static/js/main.ca7fbcf9.js"
+  ]
+}
