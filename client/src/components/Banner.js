@@ -53,7 +53,10 @@ export const Banner = () => {
               {"Hi, I'm Alberto... "}
               <span className="wrap">{text}</span>
             </h1>
-            <p>Developer Description</p>
+            <p>
+              I'm a proactive developer who has beginner's knowledge in the MERN
+              Stack. I can take on any language quickly and efficiently.
+            </p>
             <button onClick={() => console.log("connect")}>
               Let's connect <ArrowRightCircle size={25}></ArrowRightCircle>
             </button>
